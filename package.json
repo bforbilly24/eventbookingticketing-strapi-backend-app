@@ -1,9 +1,8 @@
 {
     "id": "eventbookingticketing-strapi-backend-app",
     "displayName": "Hoodlum - Event booking & Ticketing Backend",
-    "name": "test-2",
-    "private": true,
     "version": "0.0.1",
+    "private": true,
     "author": {
         "name": "Halim Putra",
         "email": "halimputra0701@icloud.com",
