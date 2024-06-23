@@ -2,9 +2,7 @@ This is a [Strapi](https://strapi.io) comes with a full featured [Command Line I
 
 ## Getting Started
 
->
-
-1. Pull in terminal
+> 1. Pull in terminal
 
 ```
 git clone https://github.com/bforbilly24/eventbookingticketing-strapi-backend-app.git
